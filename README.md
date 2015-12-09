@@ -1,4 +1,5 @@
-Gradle Environments Plugin [![Build Status](https://travis-ci.org/marceloemanoel/gradle-environments-plugin.png)](https://travis-ci.org/marceloemanoel/gradle-environments-plugin)
+Fork of Gradle Environments Plugin [![Build Status](https://travis-ci.org/mmatasic/gradle-environments-plugin.svg)](https://travis-ci.org/mmatasic/gradle-environments-plugin)
+by marceloemanoel [github repo](https://github.com/marceloemanoel/gradle-environments-plugin)
 --------------------------
 This plugin aims to help the development of projects using more than one configurations. 
 Projects that have specific configurations for development, staging and production for instance, 
